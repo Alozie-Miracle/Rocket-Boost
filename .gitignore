@@ -1,0 +1,42 @@
+# =========================================================================
+# Unity auto-generated folders
+# =========================================================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# =========================================================================
+# Visual Studio / Visual Studio Code user & cache files
+# =========================================================================
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# =========================================================================
+# Operating System files
+# =========================================================================
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
