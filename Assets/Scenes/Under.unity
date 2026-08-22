@@ -268,7 +268,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: -0.034763794, y: -0.04735597, z: 0.0016482795, w: -0.99827164}
-  m_LocalPosition: {x: -13.784431, y: 3.7320418, z: -20.49096}
+  m_LocalPosition: {x: -11.96702, y: 4.398777, z: -27.867115}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -596,7 +596,7 @@ Transform:
   m_GameObject: {fileID: 889878223}
   serializedVersion: 2
   m_LocalRotation: {x: -0.034763794, y: -0.04735597, z: 0.0016482795, w: -0.99827164}
-  m_LocalPosition: {x: -13.784431, y: 3.7320418, z: -20.49096}
+  m_LocalPosition: {x: -11.96702, y: 4.398777, z: -27.867115}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -614,7 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 886251e9a18ece04ea8e61686c173e1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachinePositionComposer
-  CameraDistance: 20
+  CameraDistance: 27.2
   DeadZoneDepth: 0
   Composition:
     ScreenPosition: {x: -0.17000002, y: 0.019999906}
@@ -882,7 +882,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3584094390645061241, guid: 535445c448283944a9ea83f96191e685, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.1
+      value: 10.9
       objectReference: {fileID: 0}
     - target: {fileID: 3584094390645061241, guid: 535445c448283944a9ea83f96191e685, type: 3}
       propertyPath: m_LocalPosition.z
