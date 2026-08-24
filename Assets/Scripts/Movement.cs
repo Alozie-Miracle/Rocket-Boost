@@ -67,8 +67,6 @@ public class Movement : MonoBehaviour
         mainEngineParticles.Stop();
     }
 
-    
-
     private void ProcessRotation()
     {
         float rotationInput = rotation.ReadValue<float>();
